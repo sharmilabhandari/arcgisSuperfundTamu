@@ -108,6 +108,15 @@
 					src="https://tamu.maps.arcgis.com/apps/MapSeries/index.html?appid=818a1463df3f4549ac731a4c5be8a190">
 				</iframe>
 			</div>
+			</section>
+
+				<h4>Hazard Characterisation Map</h4>
+				<iframe width="500" height="300" frameborder="0" scrolling="no"
+					marginheight="0" marginwidth="0" title="SVI trial map"
+					
+					src="https://152.1.109.158/gis_TX_20190328/">
+				</iframe>
+			</div>
 			<div class="col-sm-2">
 			
 			<section style="background-color:#500000;height: 40%; width: 100%; margin-top: 10%;">
